@@ -1,0 +1,23 @@
+{
+  "name": "licked-critical-dinamyc-branch",
+  "version": "0.0.1",
+  "description": "LCDBackend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munchkin09/licked-critical-dinamyc-branch.git"
+  },
+  "author": "CLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/munchkin09/licked-critical-dinamyc-branch/issues"
+  },
+  "homepage": "https://github.com/munchkin09/licked-critical-dinamyc-branch#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  }
+}
